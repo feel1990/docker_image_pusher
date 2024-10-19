@@ -1,2 +1,1 @@
-jellyfin/jellyfin
-linuxserver/calibre-web
+nginx
