@@ -1,1 +1,1 @@
-gitlab/gitlab-ce
+deluan/navidrome:latest
