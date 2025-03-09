@@ -1,1 +1,1 @@
-koodo-reader/koodo-reader:latest
+librespeed/speedtest:latest
