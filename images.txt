@@ -1,1 +1,1 @@
-librespeed/speedtest:latest
+ghcr.io/librespeed/speedtest:latest
