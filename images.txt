@@ -1,1 +1,1 @@
-ghcr.io/librespeed/speedtest:latest
+gitlab/gitlab-runner:latest
