@@ -1,1 +1,1 @@
-goharbor/harbor
+goharbor/harbor-light
