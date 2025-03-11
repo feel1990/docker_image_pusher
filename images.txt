@@ -1,1 +1,1 @@
-sonatype/nexus3
+releases-docker.jfrog.io/jfrog/artifactory-oss:latest
