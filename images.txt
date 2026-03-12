@@ -1,1 +1,1 @@
-networkstatic/iperf3
+ollama/ollama
