@@ -1,1 +1,1 @@
-ansible-awx/ansible-awx:awx-17.1.0
+ansible/awx:17.1.0
