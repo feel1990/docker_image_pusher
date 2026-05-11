@@ -1,1 +1,1 @@
-rundeck/rundeck:latest
+jenkins/jenkins:lts
