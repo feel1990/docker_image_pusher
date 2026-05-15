@@ -1,2 +1,1 @@
-envoyproxy/gateway-dev:latest
-envoyproxy/ratelimit:master
+envoyproxy/envoy:distroless-dev
