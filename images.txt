@@ -1,2 +1,1 @@
-envoyproxy/gateway:v1.8.0
-envoyproxy/ratelimit:ff287602
+envoyproxy/envoy:distroless-v1.38.0
