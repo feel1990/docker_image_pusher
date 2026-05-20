@@ -1,1 +1,1 @@
-ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-java:latest
+springio/gs-spring-boot-docker
