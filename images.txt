@@ -1,1 +1,2 @@
-springio/gs-spring-boot-docker
+redimp/otterwiki:latest
+
