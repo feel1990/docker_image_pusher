@@ -1,2 +1,2 @@
-redimp/otterwiki:latest
+rundeck/rundeck:latest
 
