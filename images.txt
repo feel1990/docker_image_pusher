@@ -1,1 +1,1 @@
-rundeck/rundeck:6.1.0
+grafana/grafana
