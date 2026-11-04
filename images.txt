@@ -1,1 +1,1 @@
-semaphoreui/semaphore:latest
+semaphoreui/semaphore:v2.20.11
