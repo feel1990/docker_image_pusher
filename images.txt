@@ -1,1 +1,1 @@
-semaphore/semaphore
+semaphoreui/semaphore:latest
